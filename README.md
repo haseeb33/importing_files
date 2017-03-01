@@ -33,6 +33,12 @@ If you have installed pandas, numpy is already been installed because pandas is 
 
 2. Convert simple array into numpy objects
 
+3. nupmy array stacking
+
+4. numpy array slicing
+
+5. Different typles of Iterations through numpy arrays
+
 ### OpenCv Library
 
 You can directly install from pip
@@ -46,3 +52,11 @@ then to install openCv
 or you can download the .whl file from http://www.lfd.uci.edu/~gohlke/pythonlibs/ and then install using cmd by opening cmd in the directry in which whl is been downloaded
 
 <code>pip install file-name.whl</code>
+
+1. Read an image in BGR and grayscale
+
+2. Make a new image
+
+3. stacking same or different images in one image
+
+4. slicing the part of an image
